@@ -14,7 +14,6 @@ function App() {
   });
 
   const onSubmit = async (data) => {
-    console.log(data);
     reset();
   };
 
